@@ -1,0 +1,1 @@
+2022-06-20T17:03:32.810Z POST: /api/users [should have required property 'name', should have required property 'email'] {} 
